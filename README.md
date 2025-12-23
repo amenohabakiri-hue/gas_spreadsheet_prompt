@@ -1,0 +1,2 @@
+# gas_spreadsheet_prompt
+スプレッドシートを自動生成するGASプロンプト
